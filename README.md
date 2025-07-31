@@ -8,7 +8,7 @@ Les écosystèmes alpins, caractérisés par des gradients climatiques extrêmes
 
 Face à ces enjeux, la restauration des talus par **semis** est devenue courante, mais les mélanges commerciaux utilisés montrent souvent une mauvaise adaptation aux conditions alpines. À l'inverse, les semences d'origine locale – notamment sous la marque **Végétal Local®** – semblent mieux adaptées et plus efficaces à long terme.
 
-## 🎯 Objectifs
+##  Objectifs
 
 Ce stage vise à :
 
@@ -17,7 +17,7 @@ Ce stage vise à :
 - Mesurer des **traits fonctionnels** (germination, croissance, traits foliaires et racinaires),
 - Tester l’effet de la pente sur la croissance et la plasticité phénotypique.
 
-## 🧪 Méthodes
+##  Méthodes
 
 L'expérimentation a été menée au **LESSEM – INRAE** sur un talus artificiel incliné à 45°.
 
@@ -28,13 +28,13 @@ Les variables mesurées incluent :
 - 🌾 Traits racinaires : longueur, surface, volume, angle d’implantation  
 - 📏 Croissance végétative sous contrainte de pente
 
-## 🧬 Hypothèses
+##  Hypothèses
 
 1. Les provenances locales présentent une plasticité phénotypique supérieure et de meilleures performances sous contrainte.
 2. Certaines combinaisons de traits (ex. : surface racinaire élevée, faible angle) favorisent la stabilité des talus.
 3. L’effet maternel des graines Végétal Local® pourrait s’atténuer malgré un sourcing local.
 
-## 🔍 Objectif global
+##  Objectif global
 
 Mieux comprendre les liens entre **origine génétique**, **traits fonctionnels** et **services écosystémiques** (stabilisation des sols, couverture végétale) afin de proposer des recommandations pour la restauration écologique en zone alpine, dans un contexte de changement climatique.
 
@@ -46,9 +46,4 @@ Mieux comprendre les liens entre **origine génétique**, **traits fonctionnels*
 - `rapport/` : résumé ou rapport de stage (version légère)
 - `README.md` : ce fichier
 
-## 👤 Auteur
 
-**Ton Nom**  
-Étudiant M2 – Master DYNAMO  
-Université Grenoble Alpes  
-[GitHub](https://github.com/tonNomUtilisateur)
